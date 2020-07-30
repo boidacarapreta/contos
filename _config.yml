@@ -21,6 +21,6 @@ exclude:
 github_username: boidacarapreta
 include:
   - _pages
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 title: "Contos"
 url: "https://contos.boidacarapreta.cc/"
