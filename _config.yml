@@ -9,8 +9,8 @@ email: ederson@boidacarapreta.cc
 exclude:
   - README.md
   - LICENSE
-gaaccount: G-K5FTSBTC20
 github_username: boidacarapreta
+google_analytics: G-K5FTSBTC20
 include:
   - _pages
 theme: jekyll-theme-slate
