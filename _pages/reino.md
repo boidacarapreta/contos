@@ -1,3 +1,8 @@
+---
+permalink: /reino.html
+layout: default
+---
+
 # O Reino do Ar-condicionado
 
 Era uma vez Dona Eulália e Seu Calixto. (assim mesmo, com Dona e Seu maiúsculos: depois de uma certa idade, passam a ser parte do nome). Eles moram em uma casinha branca, com poucos detalhes em azul-piscina, em uma rua terrivelmente plana (já tentou andar de skate ou patinete numa rua dessas?!) de uma cidadezinha do interior. Casados há quase 40 anos, compartilham um hábito em comum: reclamar.
