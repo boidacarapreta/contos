@@ -64,7 +64,7 @@ Passada a semana, Lola esquadrinha todo o seu plano, que tem de ser feito sozinh
 
 Desta vez, Lola pega o tijolo-goiabada. Num guardanapo. Não, dois: o primeiro grudou e ficou transparente. Dona Eulália está no quintal; Seu Calixto, desossando (e ainda comendo) a galinha do almoço. Pais dormindo, claro.
 
-Lola corre o mais que pode (nem precisa, mas detetives correm o mais que podem, é hábito da profissão, não?), tira um cadarço do tênis (ela planejou tudo, até o tênis com cadarço e *strass*, claro), amarra no tijolo-goiabada e arremessa no apareloh. Nada. De novo. E de novo. E de novo. E Lola cansa. Mas detetives não desistem! Em algum momento da tarde, o incrível acontece: o tijolo-goiabada gruda no botão redondo e, ao puxar de volta, deixa apenas um buraco no aparelho. "*Sim!*"
+Lola corre o mais que pode (nem precisa, mas detetives correm o mais que podem, é hábito da profissão, não?), tira um cadarço do tênis (ela planejou tudo, até o tênis com cadarço e *strass*, claro), amarra no tijolo-goiabada e arremessa no aparelho. Nada. De novo. E de novo. E de novo. E Lola cansa. Mas detetives não desistem! Em algum momento da tarde, o incrível acontece: o tijolo-goiabada gruda no botão redondo e, ao puxar de volta, deixa apenas um buraco no aparelho. "*Sim!*"
 
 Pensando bem... "*Não!*" E agora ficou um buraco no aparelho. Como explicar? Mentir é feio. Enquanto está pensando o que fazder, Lola nem percebe o absurdo. Somente ao olhar de volta pro aparelho, a surpresa: outro botão no lugar daquele de antes.
 
@@ -82,7 +82,7 @@ E eis que grandes problemas exigem grandes decisões. É preciso convocar o irm�
 
 Mas fora em vão o pedido do guardião. Chutando com violência o botão (o novo), desponta do aparelho um pomposo rato de focinho empinado. <sup><sub>"*Quem rompe o acordo há de arcar com as consequências!*"</sub></sup> (quando estiver lendo este trecho, imagina os erres do espanhol, como perro), respondeu energicamente o rei dos ratos para o guardião do portão do seu castelo (o aparelho). E, voltando-se para o quarto, lança um olhar de espanto e raiva para Lola: <sup><sub>"*E quem és tu, pequena insolente?*"</sub></sup>. Ela não entende o insolente, mas rebate igual: "*Pequena? Olha quem fala!*". O rei dos ratos obviamente não sabe, mas jamais deve provocar meninas de 4 anos.
 
-<sup><sub>"*Basta! Tua petulância será paga com a prisão! Guardas! Guardas! Detenham essa... essa...*"</sub></sup>. O rei de raiva nem terminou o resto, e saíram ratos e mais ratos de dentro do apareloh, todos devidamente paramentados e em formação, como um exército bem treinado.
+<sup><sub>"*Basta! Tua petulância será paga com a prisão! Guardas! Guardas! Detenham essa... essa...*"</sub></sup>. O rei de raiva nem terminou o resto, e saíram ratos e mais ratos de dentro do aparelho, todos devidamente paramentados e em formação, como um exército bem treinado.
 
 Não que Lola tivesse medo de ratos (ela até os achou bem fofinhos), mas ratos de armadura e lanças podem ser bem ameaçadores. É, não são, são só fofinhos mesmo. Mas o momento é de tensão, e ela já foi mordida uma vez por um gato também fofinho (ela puxou o rabo, ele miou, ela puxou a orelha, ele miou, ela levantou pela barriga, ele miou, ela deu um tapa, ele mordeu).
 
