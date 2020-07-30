@@ -1,1 +1,26 @@
+---
+baseurl: ""
+defaults:
+  -
+    scope:
+      path: assets/img
+    values:
+      image: true
+email: ederson@boidacarapreta.cc
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+github_username: boidacarapreta
+include:
+  - _pages
 theme: jekyll-theme-slate
+title: "Contos"
+url: "https://contos.boidacarapreta.cc/"
