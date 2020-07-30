@@ -1,4 +1,3 @@
----
 baseurl: ""
 defaults:
   -
@@ -8,16 +7,9 @@ defaults:
       image: true
 email: ederson@boidacarapreta.cc
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - README.md
+  - LICENSE
+gaaccount: G-K5FTSBTC20
 github_username: boidacarapreta
 include:
   - _pages
