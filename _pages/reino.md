@@ -1,7 +1,6 @@
 ---
-layout: default
-title: "O Reino do Ar-condicionado"
 permalink: /reino.html
+title: "O Reino do Ar-condicionado"
 ---
 
 # O Reino do Ar-condicionado
