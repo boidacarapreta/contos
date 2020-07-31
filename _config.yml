@@ -11,7 +11,7 @@ exclude:
   - README.md
   - LICENSE
 github_username: boidacarapreta
-google_analytics: G-K5FTSBTC20
+google_analytics: G-7ZV32HKKLE
 include:
   - _pages
 theme: jekyll-theme-slate
