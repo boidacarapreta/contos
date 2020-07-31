@@ -1,6 +1,7 @@
 ---
-permalink: /reino.html
 layout: default
+title: "O Reino do Ar-condicionado"
+permalink: /reino.html
 ---
 
 # O Reino do Ar-condicionado

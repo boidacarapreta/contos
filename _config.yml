@@ -1,7 +1,6 @@
 baseurl: ""
 defaults:
-  -
-    scope:
+  - scope:
       path: assets/img
     values:
       image: true
@@ -10,7 +9,6 @@ exclude:
   - README.md
   - LICENSE
 github_username: boidacarapreta
-google_analytics: G-K5FTSBTC20
 include:
   - _pages
 theme: jekyll-theme-slate
