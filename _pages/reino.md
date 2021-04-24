@@ -1,5 +1,5 @@
 ---
-permalink: reino.html
+permalink: /contos/reino.html
 title: "O Reino do Ar-condicionado"
 ---
 
