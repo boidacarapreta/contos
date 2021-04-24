@@ -1,3 +1,3 @@
 ## Contos
 
-Para ler online: https://contos.boidacarapreta.cc
+Para ler online: https://boidacarapreta.github.io/contos/
